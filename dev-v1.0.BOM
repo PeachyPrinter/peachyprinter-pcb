@@ -1,0 +1,37 @@
+Partlist exported from /Users/aja042/Dropbox/Eagle/Peachy Pro/dev-v1.0.sch at 2014-12-11 8:42 PM
+
+Qty Value            Device                     Package      Parts                              Description                PROD_ID    
+4                    PINHD-1X12                 1X12         JP10, JP11, JP12, JP13             PIN HEADER                            
+3                    PINHD-1X2                  1X02         JP7, JP8, JP9                      PIN HEADER                            
+7                    PINHD-1X3                  1X03         JP1, JP2, JP3, JP4, JP5, JP6, JP14 PIN HEADER                            
+1                    PINHD-1X5                  1X05         JP15                               PIN HEADER                            
+4   0.1u             C-USC0603                  C0603        C15, C17, C19, C21                 CAPACITOR, American symbol   399-1095-1-ND 
+1   1                R-US_R0603                 R0603        R13                                RESISTOR, American symbol    541-1.00HHCT-ND         
+1   100              R-US_R0603                 R0603        R15                                RESISTOR, American symbol    541-100HCT-ND         
+1   100k             R-US_R0603                 R0603        R4                                 RESISTOR, American symbol    541-100KHCT-ND         
+5   100n             C-USC0603                  C0603        C10, C11, C12, C13, C27            CAPACITOR, American symbol   same as 0.1u
+1   10k              R-US_R0603                 R0603        R1                                 RESISTOR, American symbol    541-10.0KHCT-ND 
+1   10n              C-USC0603                  C0603        C3                                 CAPACITOR, American symbol   399-8988-1-ND
+4   1M               R-US_R0603                 R0603        R6, R8, R10, R12                   RESISTOR, American symbol    541-1.00MHCT-ND 
+2   1k               R-US_R0603                 R0603        R14, R25                           RESISTOR, American symbol    541-1.00KHCT-ND 
+1   1k5              R-US_R0603                 R0603        R3                                 RESISTOR, American symbol    541-1.50KHCT-ND          
+7   1u               C-USC0603                  C0603        C1, C2, C14, C16, C18, C20, C26    CAPACITOR, American symbol   587-1242-1-ND
+1   36k              R-US_R0603                 R0603        R2                                 RESISTOR, American symbol    541-36.0KHCT-ND         
+4   3k9              R-US_R0603                 R0603        R5, R7, R9, R11                    RESISTOR, American symbol    541-3.90KHCT-ND                  
+4   4.7n             C-USC0603                  C0603        C4, C5, C6, C7                     CAPACITOR, American symbol   399-1087-1-ND                    
+4   470n             C-USC0603                  C0603        C22, C23, C24, C25                 CAPACITOR, American symbol   587-1252-1-ND         
+1   470p             C-USC0603                  C0603        C8                                 CAPACITOR, American symbol   399-1075-1-ND                  
+1   74S04D           74S04D                     SO14         IC3                                Hex INVERTER                 568-1384-1-ND                           
+1   820n             C-USC0603                  C0603        C9                                 CAPACITOR, American symbol   399-3117-1-ND (note: hard to get)         
+4   82k              R-US_R0603                 R0603        R18, R20, R22, R24                 RESISTOR, American symbol    541-82.0KHCT-ND         
+4   8k2              R-US_R0603                 R0603        R17, R19, R21, R23                 RESISTOR, American symbol    541-8.20KHCT-ND         
+1   9k9              R-US_R0603                 R0603        R16                                RESISTOR, American symbol    541-9.09KHCT-ND (note: 9k09)
+2   BAT60A           BAT60A                     SOD323       D1, D2                                                          BAT60AE6327INCT-ND         
+1   BC846            BC846                      SOT23        T1                                 NPN TRANSISTOR               568-1632-1-ND              
+1   FCI-MICRO-USB    FCI-MICRO-USB              FCI-MICROUSB U$3                                                             609-4613-1-ND         
+1   IRLR3105TR       FET-N-IRLR3105TRIRLR3105TR DPAK         Q1                                 Common NMOSFET Parts       TRANS-09984  IRLR3105TRPBFCT-ND 
+1   LD3985M33R       LD3985MXXR                 SOT23-5L     REG1                                                                     497-3504-1-ND        
+4   LMC7101          LMC7101                    SOT23-5      U$2, U$4, U$5, U$6                                                       576-2575-1-ND        
+1   LMH6645MF        OPAMP-SINGLELMH6645MF      SOT23-5      U1                                 Single amp opamps                     LMH6645MF/NOPBCT-ND  
+1   STM32F042-LQFP48 STM32F042-LQFP48           LQFP48       U$1                                                                      497-14648-ND         
+
