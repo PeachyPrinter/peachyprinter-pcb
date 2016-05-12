@@ -1,0 +1,32 @@
+Circuit: * C:\Users\Owner\Dropbox\Eagle\Peachy Pro\Draft6.asc
+
+Error on line 3 : v1 n001 0 v
+	 Unknown parameter "v"
+Error on line 14 : v2 n010 0 v
+	 Unknown parameter "v"
+V2: Missing value, assumed 0V @ DC
+V1: Missing value, assumed 0V @ DC
+.OP point found by inspection.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+
+Date: Tue Jul 07 14:24:28 2015
+Total elapsed time: 0.469 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2082
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 22
+fillins = 7
+solver = Normal
+Matrix Compiler1: 1.36 KB object code size  1.8/0.7/[0.6]
+Matrix Compiler2: off  [0.4]/0.7/0.5
+
+
